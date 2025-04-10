@@ -1,0 +1,281 @@
+2025-03-26 18:09:04:INFO:***********Test_01_Admin_Login***********
+2025-03-26 18:09:04:INFO:***********verification of admin page title***********
+2025-03-26 18:09:05:INFO:***********test title verification title matched***********
+2025-03-26 18:09:06:INFO:***********test_valid_admin_login started***********
+2025-03-26 18:09:09:INFO:***********test_invalid_admin_login started***********
+2025-03-26 18:09:50:INFO:***********Test_01_Admin_Login***********
+2025-03-26 18:09:50:INFO:***********verification of admin page title***********
+2025-03-26 18:09:51:INFO:***********test title verification title matched***********
+2025-03-26 18:09:52:INFO:***********test_valid_admin_login started***********
+2025-03-26 18:09:55:INFO:***********test_invalid_admin_login started***********
+2025-03-26 18:10:39:INFO:***********Test_01_Admin_Login***********
+2025-03-26 18:10:39:INFO:***********verification of admin page title***********
+2025-03-26 18:10:40:INFO:***********test title verification title matched***********
+2025-03-26 18:10:43:INFO:***********test_valid_admin_login started***********
+2025-03-26 18:10:47:INFO:***********test_invalid_admin_login started***********
+2025-04-07 20:26:52:INFO:***********test_invalid_admin_login started***********
+2025-04-07 20:26:52:INFO:***********Test_01_Admin_Login***********
+2025-04-07 20:26:52:INFO:***********verification of admin page title***********
+2025-04-07 20:26:52:INFO:***********test_valid_admin_login started***********
+2025-04-07 20:26:53:INFO:***********test title verification title matched***********
+2025-04-07 20:37:27:INFO:***********Test_01_Admin_Login***********
+2025-04-07 20:37:27:INFO:***********verification of admin page title***********
+2025-04-07 20:37:28:INFO:***********test title verification title matched***********
+2025-04-07 20:37:29:INFO:***********test_valid_admin_login started***********
+2025-04-07 20:37:31:INFO:***********test_invalid_admin_login started***********
+2025-04-07 20:50:14:INFO:***********Test_01_Admin_Login***********
+2025-04-07 20:50:14:INFO:***********verification of admin page title***********
+2025-04-07 20:50:14:INFO:***********test title verification title matched***********
+2025-04-07 20:50:16:INFO:***********test_valid_admin_login started***********
+2025-04-07 20:50:18:INFO:***********test_invalid_admin_login started***********
+2025-04-07 20:50:49:INFO:***********Test_01_Admin_Login***********
+2025-04-07 20:50:49:INFO:***********verification of admin page title***********
+2025-04-07 20:50:50:INFO:***********test title verification title matched***********
+2025-04-07 20:50:51:INFO:***********test_valid_admin_login started***********
+2025-04-07 20:50:53:INFO:***********test_invalid_admin_login started***********
+2025-04-07 21:04:26:INFO:***********Test_01_Admin_Login***********
+2025-04-07 21:04:26:INFO:***********verification of admin page title***********
+2025-04-07 21:04:27:INFO:***********test title verification title matched***********
+2025-04-07 21:04:28:INFO:***********test_valid_admin_login started***********
+2025-04-07 21:04:30:INFO:***********test_invalid_admin_login started***********
+2025-04-08 03:38:58:INFO:***********Test_01_Admin_Login***********
+2025-04-08 03:38:58:INFO:***********verification of admin page title***********
+2025-04-08 03:38:59:INFO:***********test title verification title matched***********
+2025-04-08 03:39:00:INFO:***********test_valid_admin_login started***********
+2025-04-08 03:39:03:INFO:***********test_invalid_admin_login started***********
+2025-04-08 04:34:26:INFO:***********test_valid_admin_login_data_driven started***********
+2025-04-08 04:34:32:INFO:Test data is Failed
+2025-04-08 22:37:52:INFO:***********Test_01_Admin_Login***********
+2025-04-08 22:37:52:INFO:***********verification of admin page title***********
+2025-04-08 22:37:53:INFO:***********test title verification title matched***********
+2025-04-08 22:37:54:INFO:***********test_valid_admin_login started***********
+2025-04-08 22:37:57:INFO:***********test_invalid_admin_login started***********
+2025-04-08 22:37:59:INFO:***********test_valid_admin_login_data_driven started***********
+2025-04-08 22:38:12:INFO:Test data is Failed
+2025-04-08 22:43:35:INFO:***********Test_01_Admin_Login***********
+2025-04-08 22:43:35:INFO:***********verification of admin page title***********
+2025-04-08 22:43:35:INFO:***********test title verification title matched***********
+2025-04-08 22:43:37:INFO:***********test_valid_admin_login started***********
+2025-04-08 22:43:49:INFO:***********test_invalid_admin_login started***********
+2025-04-08 22:43:51:INFO:***********test_valid_admin_login_data_driven started***********
+2025-04-08 22:43:57:INFO:Test data is Failed
+2025-04-08 22:52:29:INFO:***********Test_01_Admin_Login***********
+2025-04-08 22:52:29:INFO:***********verification of admin page title***********
+2025-04-08 22:52:29:INFO:***********test title verification title matched***********
+2025-04-08 22:52:31:INFO:***********test_valid_admin_login started***********
+2025-04-08 22:52:33:INFO:***********test_invalid_admin_login started***********
+2025-04-09 00:30:45:INFO:***********Test_03_Add_New_Customer started *************
+2025-04-09 00:30:46:INFO:***********Login completed *************
+2025-04-09 00:30:46:INFO:***********starting add customer test *************
+2025-04-09 02:33:27:INFO:patching driver executable C:\Users\Roshan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 02:33:28:INFO:***********Test_03_Add_New_Customer started *************
+2025-04-09 02:33:31:INFO:***********Login completed *************
+2025-04-09 02:33:31:INFO:***********starting add customer test *************
+2025-04-09 02:33:31:INFO:***********Providing customer info started *************
+2025-04-09 02:33:53:INFO:***********Test_01_Admin_Login***********
+2025-04-09 02:33:53:INFO:***********verification of admin page title***********
+2025-04-09 02:33:53:INFO:***********test title verification title matched***********
+2025-04-09 02:33:54:INFO:***********test_valid_admin_login started***********
+2025-04-09 02:33:56:INFO:***********Dashboard text found***********
+2025-04-09 02:33:56:INFO:***********test_invalid_admin_login started***********
+2025-04-09 02:33:57:INFO:***********test_invalid_admin_login error message matched***********
+2025-04-09 02:33:58:INFO:***********test_valid_admin_login_data_driven started***********
+2025-04-09 02:34:04:INFO:Test data is passed
+2025-04-09 02:34:10:INFO:Test data is Pass
+2025-04-09 02:34:15:INFO:Test data is Pass
+2025-04-09 02:34:15:INFO:Test admin data driven test is passed
+2025-04-09 02:34:16:INFO:***********Test_04_001_Search_Customer with email started *************
+2025-04-09 02:34:17:INFO:***********Login completed *************
+2025-04-09 02:34:17:INFO:***********navigating to customer search page *************
+2025-04-09 02:34:18:INFO:*********** starting search customer by email *************
+2025-04-09 02:34:21:INFO:***********Test_04_Search_customer by email test passed *************
+2025-04-09 02:34:22:INFO:***********Test_04_002_Search_Customer with name started *************
+2025-04-09 02:34:23:INFO:***********Login completed *************
+2025-04-09 02:34:23:INFO:***********navigating to customer search page *************
+2025-04-09 02:34:24:INFO:*********** starting search customer by name *************
+2025-04-09 02:34:27:INFO:***********Test_04_002_Search_customer by name test passed *************
+2025-04-09 02:34:28:INFO:***********Test_04_003_Search_Customer with company name started *************
+2025-04-09 02:34:30:INFO:***********Login completed *************
+2025-04-09 02:34:30:INFO:***********navigating to customer search page *************
+2025-04-09 02:34:30:INFO:*********** starting search customer by company name *************
+2025-04-09 02:36:58:INFO:patching driver executable C:\Users\Roshan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 02:36:59:INFO:***********Test_01_Admin_Login***********
+2025-04-09 02:36:59:INFO:***********verification of admin page title***********
+2025-04-09 02:37:00:INFO:***********test title verification title matched***********
+2025-04-09 02:37:00:INFO:***********test_valid_admin_login started***********
+2025-04-09 02:37:03:INFO:***********Dashboard text found***********
+2025-04-09 02:37:03:INFO:***********test_invalid_admin_login started***********
+2025-04-09 02:37:04:INFO:***********test_invalid_admin_login error message matched***********
+2025-04-09 02:39:14:INFO:patching driver executable C:\Users\Roshan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 02:39:15:INFO:***********Test_03_Add_New_Customer started *************
+2025-04-09 02:39:17:INFO:***********Login completed *************
+2025-04-09 02:39:17:INFO:***********starting add customer test *************
+2025-04-09 02:39:18:INFO:***********Providing customer info started *************
+2025-04-09 02:39:39:INFO:***********Test_01_Admin_Login***********
+2025-04-09 02:39:39:INFO:***********verification of admin page title***********
+2025-04-09 02:39:40:INFO:***********test title verification title matched***********
+2025-04-09 02:39:40:INFO:***********test_valid_admin_login started***********
+2025-04-09 02:39:42:INFO:***********Dashboard text found***********
+2025-04-09 02:39:43:INFO:***********test_invalid_admin_login started***********
+2025-04-09 02:39:44:INFO:***********test_invalid_admin_login error message matched***********
+2025-04-09 02:39:45:INFO:***********test_valid_admin_login_data_driven started***********
+2025-04-09 02:39:52:INFO:Test data is passed
+2025-04-09 02:39:58:INFO:Test data is Pass
+2025-04-09 02:40:03:INFO:Test data is Pass
+2025-04-09 02:40:03:INFO:Test admin data driven test is passed
+2025-04-09 02:40:03:INFO:***********Test_04_001_Search_Customer with email started *************
+2025-04-09 02:40:05:INFO:***********Login completed *************
+2025-04-09 02:40:05:INFO:***********navigating to customer search page *************
+2025-04-09 02:40:06:INFO:*********** starting search customer by email *************
+2025-04-09 02:40:09:INFO:***********Test_04_Search_customer by email test passed *************
+2025-04-09 02:40:10:INFO:***********Test_04_002_Search_Customer with name started *************
+2025-04-09 02:40:12:INFO:***********Login completed *************
+2025-04-09 02:40:12:INFO:***********navigating to customer search page *************
+2025-04-09 02:40:12:INFO:*********** starting search customer by name *************
+2025-04-09 02:40:16:INFO:***********Test_04_002_Search_customer by name test passed *************
+2025-04-09 02:40:16:INFO:***********Test_04_003_Search_Customer with company name started *************
+2025-04-09 02:40:18:INFO:***********Login completed *************
+2025-04-09 02:40:18:INFO:***********navigating to customer search page *************
+2025-04-09 02:40:18:INFO:*********** starting search customer by company name *************
+2025-04-09 02:40:38:INFO:***********Test_04_003_Search_customer by company name test passed *************
+2025-04-09 02:49:36:INFO:patching driver executable C:\Users\Roshan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 02:49:37:INFO:***********Test_03_Add_New_Customer started *************
+2025-04-09 02:49:39:INFO:***********Login completed *************
+2025-04-09 02:49:39:INFO:***********starting add customer test *************
+2025-04-09 02:49:40:INFO:***********Providing customer info started *************
+2025-04-09 02:50:05:INFO:***********Test_01_Admin_Login***********
+2025-04-09 02:50:05:INFO:***********verification of admin page title***********
+2025-04-09 02:50:05:INFO:***********test title verification title matched***********
+2025-04-09 02:50:06:INFO:***********test_valid_admin_login started***********
+2025-04-09 02:50:08:INFO:***********Dashboard text found***********
+2025-04-09 02:50:09:INFO:***********test_invalid_admin_login started***********
+2025-04-09 02:50:10:INFO:***********test_invalid_admin_login error message matched***********
+2025-04-09 02:50:11:INFO:***********test_valid_admin_login_data_driven started***********
+2025-04-09 02:50:17:INFO:Test data is passed
+2025-04-09 02:50:23:INFO:Test data is Pass
+2025-04-09 02:50:28:INFO:Test data is Pass
+2025-04-09 02:50:28:INFO:Test admin data driven test is passed
+2025-04-09 02:50:29:INFO:***********Test_04_001_Search_Customer with email started *************
+2025-04-09 02:50:31:INFO:***********Login completed *************
+2025-04-09 02:50:31:INFO:***********navigating to customer search page *************
+2025-04-09 02:50:31:INFO:*********** starting search customer by email *************
+2025-04-09 02:50:34:INFO:***********Test_04_Search_customer by email test passed *************
+2025-04-09 02:50:35:INFO:***********Test_04_002_Search_Customer with name started *************
+2025-04-09 02:50:37:INFO:***********Login completed *************
+2025-04-09 02:50:37:INFO:***********navigating to customer search page *************
+2025-04-09 02:50:37:INFO:*********** starting search customer by name *************
+2025-04-09 02:50:41:INFO:***********Test_04_002_Search_customer by name test passed *************
+2025-04-09 02:50:41:INFO:***********Test_04_003_Search_Customer with company name started *************
+2025-04-09 02:50:43:INFO:***********Login completed *************
+2025-04-09 02:50:43:INFO:***********navigating to customer search page *************
+2025-04-09 02:50:44:INFO:*********** starting search customer by company name *************
+2025-04-09 02:54:43:INFO:patching driver executable C:\Users\Roshan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 02:54:43:INFO:***********Test_03_Add_New_Customer started *************
+2025-04-09 02:54:46:INFO:***********Login completed *************
+2025-04-09 02:54:46:INFO:***********starting add customer test *************
+2025-04-09 02:54:47:INFO:***********Providing customer info started *************
+2025-04-09 02:55:11:INFO:***********Test_01_Admin_Login***********
+2025-04-09 02:55:11:INFO:***********verification of admin page title***********
+2025-04-09 02:55:12:INFO:***********test title verification title matched***********
+2025-04-09 02:55:13:INFO:***********test_valid_admin_login started***********
+2025-04-09 02:55:15:INFO:***********Dashboard text found***********
+2025-04-09 02:55:16:INFO:***********test_invalid_admin_login started***********
+2025-04-09 02:55:17:INFO:***********test_invalid_admin_login error message matched***********
+2025-04-09 02:55:18:INFO:***********test_valid_admin_login_data_driven started***********
+2025-04-09 02:55:25:INFO:Test data is passed
+2025-04-09 02:55:31:INFO:Test data is Pass
+2025-04-09 02:55:37:INFO:Test data is Pass
+2025-04-09 02:55:37:INFO:Test admin data driven test is passed
+2025-04-09 02:55:37:INFO:***********Test_04_001_Search_Customer with email started *************
+2025-04-09 02:55:39:INFO:***********Login completed *************
+2025-04-09 02:55:39:INFO:***********navigating to customer search page *************
+2025-04-09 02:55:39:INFO:*********** starting search customer by email *************
+2025-04-09 02:55:43:INFO:***********Test_04_Search_customer by email test passed *************
+2025-04-09 02:55:43:INFO:***********Test_04_002_Search_Customer with name started *************
+2025-04-09 02:55:45:INFO:***********Login completed *************
+2025-04-09 02:55:45:INFO:***********navigating to customer search page *************
+2025-04-09 02:55:46:INFO:*********** starting search customer by name *************
+2025-04-09 02:55:49:INFO:***********Test_04_002_Search_customer by name test passed *************
+2025-04-09 02:55:50:INFO:***********Test_04_003_Search_Customer with company name started *************
+2025-04-09 02:55:52:INFO:***********Login completed *************
+2025-04-09 02:55:52:INFO:***********navigating to customer search page *************
+2025-04-09 02:55:52:INFO:*********** starting search customer by company name *************
+2025-04-09 02:55:55:INFO:***********Test_04_003_Search_customer by company name test passed *************
+2025-04-09 03:01:09:INFO:patching driver executable C:\Users\Roshan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 03:01:10:INFO:***********Test_03_Add_New_Customer started *************
+2025-04-09 03:01:12:INFO:***********Login completed *************
+2025-04-09 03:01:12:INFO:***********starting add customer test *************
+2025-04-09 03:01:13:INFO:***********Providing customer info started *************
+2025-04-09 14:55:41:INFO:patching driver executable C:\Users\Roshan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 14:55:42:INFO:***********Test_03_Add_New_Customer started *************
+2025-04-09 14:55:47:INFO:***********Login completed *************
+2025-04-09 14:55:47:INFO:***********starting add customer test *************
+2025-04-09 14:55:48:INFO:***********Providing customer info started *************
+2025-04-09 14:56:12:INFO:***********test_valid_admin_login started***********
+2025-04-09 14:56:14:INFO:***********Dashboard text found***********
+2025-04-09 14:56:15:INFO:***********Test_04_001_Search_Customer with email started *************
+2025-04-09 14:56:17:INFO:***********Login completed *************
+2025-04-09 14:56:17:INFO:***********navigating to customer search page *************
+2025-04-09 14:56:17:INFO:*********** starting search customer by email *************
+2025-04-09 14:56:21:INFO:***********Test_04_Search_customer by email test passed *************
+2025-04-09 14:56:48:INFO:patching driver executable C:\Users\Roshan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 14:56:49:INFO:***********Test_03_Add_New_Customer started *************
+2025-04-09 14:56:51:INFO:***********Login completed *************
+2025-04-09 14:56:51:INFO:***********starting add customer test *************
+2025-04-09 14:56:52:INFO:***********test_valid_admin_login started***********
+2025-04-09 14:56:53:INFO:***********Test_04_001_Search_Customer with email started *************
+2025-04-09 14:57:26:INFO:patching driver executable C:\Users\Roshan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 14:57:27:INFO:***********Test_03_Add_New_Customer started *************
+2025-04-09 14:57:32:INFO:***********Login completed *************
+2025-04-09 14:57:32:INFO:***********starting add customer test *************
+2025-04-09 14:57:33:INFO:***********Providing customer info started *************
+2025-04-09 14:57:57:INFO:***********Test_01_Admin_Login***********
+2025-04-09 14:57:57:INFO:***********verification of admin page title***********
+2025-04-09 14:57:58:INFO:***********test title verification title matched***********
+2025-04-09 14:57:58:INFO:***********test_valid_admin_login started***********
+2025-04-09 14:58:00:INFO:***********Dashboard text found***********
+2025-04-09 14:58:01:INFO:***********Test_04_001_Search_Customer with email started *************
+2025-04-09 14:58:03:INFO:***********Login completed *************
+2025-04-09 14:58:03:INFO:***********navigating to customer search page *************
+2025-04-09 14:58:04:INFO:*********** starting search customer by email *************
+2025-04-09 14:58:07:INFO:***********Test_04_Search_customer by email test passed *************
+2025-04-09 14:58:08:INFO:***********Test_04_002_Search_Customer with name started *************
+2025-04-09 14:58:09:INFO:***********Login completed *************
+2025-04-09 14:58:09:INFO:***********navigating to customer search page *************
+2025-04-09 14:58:10:INFO:*********** starting search customer by name *************
+2025-04-09 14:58:14:INFO:***********Test_04_002_Search_customer by name test passed *************
+2025-04-09 14:58:14:INFO:***********Test_04_003_Search_Customer with company name started *************
+2025-04-09 14:58:16:INFO:***********Login completed *************
+2025-04-09 14:58:16:INFO:***********navigating to customer search page *************
+2025-04-09 14:58:16:INFO:*********** starting search customer by company name *************
+2025-04-09 20:45:16:INFO:patching driver executable C:\Users\Roshan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 20:45:17:INFO:***********Test_03_Add_New_Customer started *************
+2025-04-09 20:45:25:INFO:***********Login completed *************
+2025-04-09 20:45:25:INFO:***********starting add customer test *************
+2025-04-09 20:45:26:INFO:***********Providing customer info started *************
+2025-04-09 20:45:50:INFO:***********Test_01_Admin_Login***********
+2025-04-09 20:45:50:INFO:***********verification of admin page title***********
+2025-04-09 20:45:51:INFO:***********test title verification title matched***********
+2025-04-09 20:45:52:INFO:***********test_valid_admin_login started***********
+2025-04-09 20:45:54:INFO:***********Dashboard text found***********
+2025-04-09 20:45:55:INFO:***********test_invalid_admin_login started***********
+2025-04-09 20:45:55:INFO:***********test_invalid_admin_login error message matched***********
+2025-04-09 20:45:56:INFO:***********test_valid_admin_login_data_driven started***********
+2025-04-09 20:46:04:INFO:Test data is passed
+2025-04-09 20:46:09:INFO:Test data is Pass
+2025-04-09 20:46:15:INFO:Test data is Pass
+2025-04-09 20:46:15:INFO:Test admin data driven test is passed
+2025-04-09 20:46:15:INFO:***********Test_04_001_Search_Customer with email started *************
+2025-04-09 20:46:17:INFO:***********Login completed *************
+2025-04-09 20:46:17:INFO:***********navigating to customer search page *************
+2025-04-09 20:46:18:INFO:*********** starting search customer by email *************
+2025-04-09 20:46:21:INFO:***********Test_04_Search_customer by email test passed *************
+2025-04-09 20:46:22:INFO:***********Test_04_002_Search_Customer with name started *************
+2025-04-09 20:46:23:INFO:***********Login completed *************
+2025-04-09 20:46:23:INFO:***********navigating to customer search page *************
+2025-04-09 20:46:24:INFO:*********** starting search customer by name *************
+2025-04-09 20:46:27:INFO:***********Test_04_002_Search_customer by name test passed *************
+2025-04-09 20:46:28:INFO:***********Test_04_003_Search_Customer with company name started *************
+2025-04-09 20:46:30:INFO:***********Login completed *************
+2025-04-09 20:46:30:INFO:***********navigating to customer search page *************
+2025-04-09 20:46:30:INFO:*********** starting search customer by company name *************
